@@ -1,0 +1,31 @@
+body {
+    width: 310px;
+}
+div {
+    margin: 0px 15px;
+    border: 2px solid rgb(255,99,71);
+}
+p, h1 {
+    font-size: 20px;
+    margin: 20px 10px 25px 10px;
+    
+}
+.dis {
+    border-spacing:5px;
+    border-style: inset;
+    border-radius: 150%;
+    background-color: #00FFFF;
+    text-align:center;
+    display:inline-block;
+    padding:20px;
+    color:black;
+    margin: 20px 70px;
+}
+a:visited {
+    color:darkblue;
+}
+
+a:hover {
+    text-decoration:none;
+    color:#D3D3D3;
+}
